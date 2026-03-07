@@ -1,1 +1,1 @@
-window.location.href = 'https://katrina.gg';
+window.location.replace("https://katrina.gg");
